@@ -1,0 +1,12 @@
+/build/
+/data/
+backend/target/
+app/.build/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.db
+*.log
+.claude/
+.playwright-mcp/
